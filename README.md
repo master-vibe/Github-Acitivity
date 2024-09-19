@@ -1,18 +1,18 @@
 # GitHub Activity Tool
 
-*A command-line tool to fetch and display GitHub user activities using the GitHub API. This tool retrieves recent events from a specified GitHub user's account and displays them in a readable format.
+A command-line tool to fetch and display GitHub user activities using the GitHub API. This tool retrieves recent events from a specified GitHub user's account and displays them in a readable format.
 
 ## Features
 
-- **Fetches and displays GitHub events for a given user.
-- **Supports event types such as `CreateEvent`, `PushEvent`, and `DeleteEvent`,etc.
-- **Provides details on repository name and event timestamps.
+- Fetches and displays GitHub events for a given user.
+- Supports event types such as `CreateEvent`, `PushEvent`, and `DeleteEvent`,etc.
+- Provides details on repository name and event timestamps.
 
 ## Prerequisites
 
-- **Java 11 or higher
-- **`json.jar` library for JSON parsing (included in the `src` directory)
-- **Command-Line Interface (CLI):** Use a terminal (macOS/Linux) or Command Prompt (Windows).
+- Java 11 or higher
+- `json.jar` library for JSON parsing (included in the `src` directory)
+- Command-Line Interface (CLI): Use a terminal (macOS/Linux) or Command Prompt (Windows).
 
 ## Getting Started
 
