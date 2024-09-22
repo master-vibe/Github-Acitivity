@@ -55,3 +55,6 @@ Open Terminal, navigate to the project root directory, and run:
   2. Run the Script:
       ```bash
       ./github-activity.sh <options> [username]
+
+
+https://roadmap.sh/projects/github-user-activity
